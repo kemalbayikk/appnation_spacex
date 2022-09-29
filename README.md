@@ -1,16 +1,9 @@
-# appnation_spacex_project
+# AppNation Techinal Test SpaceX Project
 
-A new Flutter project.
+Home Screen Screenshot #1
 
-## Getting Started
+<img width="411" alt="Ekran Resmi 2022-09-29 14 39 53" src="https://user-images.githubusercontent.com/45203337/193022389-b17f34b4-3019-49b6-ade9-4dd9d792720e.png">
 
-This project is a starting point for a Flutter application.
+Home Screen Screenshot #2
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="411" alt="Ekran Resmi 2022-09-29 14 40 04" src="https://user-images.githubusercontent.com/45203337/193022402-195c87bf-b0ec-43d7-94ce-98debfe61cd9.png">
