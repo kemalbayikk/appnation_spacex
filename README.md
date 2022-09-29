@@ -11,3 +11,5 @@ Home Screen Screenshot #2
 Loading Screen Screenshot 
 
 <img width="411" alt="Ekran Resmi 2022-09-29 14 43 19" src="https://user-images.githubusercontent.com/45203337/193022644-67c84ab3-d233-411f-aa7c-cc2259aee7ce.png">
+
+# !StatefulWidgets just used for Animations
