@@ -1,0 +1,4 @@
+#Thu Sep 29 14:33:47 TRT 2022
+base.0=/Users/kemalbayik/Desktop/development/appnation_spacex/appnation_spacex_project/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

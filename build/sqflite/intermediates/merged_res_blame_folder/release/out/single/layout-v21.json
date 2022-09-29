@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/kemalbayik/Desktop/development/appnation_spacex/appnation_spacex_project/build/sqflite/intermediates/merged_res/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/kemalbayik/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/kemalbayik/Desktop/development/appnation_spacex/appnation_spacex_project/build/sqflite/intermediates/merged_res/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/kemalbayik/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/kemalbayik/Desktop/development/appnation_spacex/appnation_spacex_project/build/sqflite/intermediates/merged_res/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/kemalbayik/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/kemalbayik/Desktop/development/appnation_spacex/appnation_spacex_project/build/sqflite/intermediates/merged_res/release/layout-v21/notification_action.xml",
+        "source": "/Users/kemalbayik/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout-v21/notification_action.xml"
+    }
+]
